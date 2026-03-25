@@ -1,0 +1,21 @@
+{
+  "brand_tagline": "Cabinet Stomatologic",
+  "city": "Cluj-Napoca",
+  "site_url": "https://dr-savu-natalia.vercel.app/",
+  "phone_display": "0745 794 512",
+  "email": "contact@example.com",
+  "instagram_url": "#",
+  "facebook_url": "#",
+  "linkedin_url": "#",
+  "copyright_year": "2026",
+  "address": "Apartament 89, Aleea Borsec 4, 400394 Cluj-Napoca",
+  "phone_link": "+40745794512",
+  "whatsapp_number": "40745794512",
+  "brand_name": "Dr. Savu Natalia",
+  "logo_path": "img/brand-logo.png",
+  "preview_image_path": "img/brand-preview.png",
+  "site_title": "Dr. Savu Natalia | Stomatologie premium in Cluj-Napoca",
+  "site_description": "Dr. Savu Natalia ofera servicii stomatologice moderne in Cluj-Napoca, cu accent pe confort, grija si rezultate naturale.",
+  "map_embed_url": "https://www.google.com/maps?q=Apartament%2089%2C%20Aleea%20Borsec%204%2C%20400394%20Cluj-Napoca&output=embed",
+  "og_image_url": "https://dr-savu-natalia.vercel.app/img/brand-preview.png"
+}
